@@ -1,0 +1,414 @@
+Data Visualization
+
+4.5 stars
+1064 ratings
+
+John C. Hart 
+
+About this Course
+
+Learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. We will also introduce methods for pattern-based classification and some interesting applications of pattern discovery. This course provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns.
+
+Skills you will gain
+Data Visualization Software
+Tableau Software
+Data Virtualization
+Data Visualization (DataViz)
+
+
+Text Retrieval and Search Engines
+
+4.5 stars
+736 ratings
+
+ChengXiang Zhai
+
+About this Course
+
+Recent years have seen a dramatic growth of natural language text data, including web pages, news articles, scientific literature, emails, enterprise documents, and social media such as blog articles, forum posts, product reviews, and tweets. Text data are unique in that they are usually generated directly by humans rather than a computer system or sensors, and are thus especially valuable for discovering knowledge about people’s opinions and preferences, in addition to many other kinds of knowledge that we encode in text. 
+
+This course will cover search engine technologies, which play an important role in any data mining applications involving text data for two reasons. First, while the raw data may be large for any particular problem, it is often a relatively small subset of the data that are relevant, and a search engine is an essential tool for quickly discovering a small subset of relevant text data in a large text collection. Second, search engines are needed to help analysts interpret any patterns discovered in the data by allowing them to examine the relevant original text data to make sense of any discovered pattern. You will learn the basic concepts, principles, and the major techniques in text retrieval, which is the underlying science of search engines.
+
+Skills you will gain
+Information Retrieval (IR)
+Document Retrieval
+Machine Learning
+Recommender Systems
+
+
+Neural Networks and Deep Learning
+
+4.9 stars
+94,905 ratings
+
+Andrew Ng
+
+About this Course
+
+If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago.
+
+In this course, you will learn the foundations of deep learning. When you finish this class, you will: - Understand the major technology trends driving Deep Learning - Be able to build, train and apply fully connected deep neural networks - Know how to implement efficient (vectorized) neural networks - Understand the key parameters in a neural network's architecture This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions. This is the first course of the Deep Learning Specialization.
+
+Skills you will gain
+Artificial Neural Network
+Backpropagation
+Python Programming
+Deep Learning
+
+
+SQL for Data Science
+
+4.67 stars
+1,363 Ratings
+
+Sadie St. Lawrence
+
+About this Course
+
+As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. This is a data scientist, “part mathematician, part computer scientist, and part trend spotter” (SAS Institute, Inc.). According to Glassdoor, being a data scientist is the best job in America; with a median base salary of $110,000 and thousands of job openings at a time. The skills necessary to be a good data scientist include being able to retrieve and work with data, and to do that you need to be well versed in SQL, the standard language for communicating with database systems. This course is designed to give you a primer in the fundamentals of SQL and working with data so that you can begin analyzing it for data science purposes. You will begin to ask the right questions and come up with good answers to deliver valuable insights for your organization. This course starts with the basics and assumes you do not have any knowledge or skills in SQL. It will build on that foundation and gradually have you write both simple and complex queries to help you select data from tables.  You'll start to work with different types of data like strings and numbers and discuss methods to filter and pare down your results. You will create new tables and be able to move data into them. You will learn common operators and how to combine the data. You will use case statements and concepts like data governance and profiling. You will discuss topics on data, and practice using real-world programming assignments. You will interpret the structure, meaning, and relationships in source data and use SQL as a professional to shape your data for targeted analysis purposes. Although we do not have any specific prerequisites or software requirements to take this course, a simple text editor is recommended for the final project. So what are you waiting for? This is your first step in landing a job in the best occupation in the US and soon the world!
+
+SKILLS YOU WILL GAIN
+Data Science
+Data Analysis
+Sqlite
+SQL
+
+
+Applied Text Mining in Python
+
+4.13 stars 
+
+133 Ratings
+
+V. G. Vinod Vydiswaran
+
+About this Course
+
+This course will introduce the learner to text mining and text manipulation basics. The course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text. The second week focuses on common manipulation needs, including regular expressions (searching for text), cleaning text, and preparing text for use by machine learning processes. The third week will apply basic natural language processing methods to text, and demonstrate how text classification is accomplished. The final week will explore more advanced methods for detecting the topics in documents and grouping them by similarity (topic modelling). 
+
+This course should be taken after: Introduction to Data Science in Python, Applied Plotting, Charting & Data Representation in Python, and Applied Machine Learning in Python.
+
+SKILLS YOU WILL GAIN
+Natural Language Toolkit (NLTK)
+Text Mining
+Python Programming
+Natural Language Processing
+
+
+Data Science: Foundations using R Specialization
+
+4.6 stars
+
+67053 ratings
+
+Jeff Leek, Phd.
+
+About this Course
+
+In taking the Data Science: Foundations using R Specialization, learners will complete a project at the ending of each course in this specialization. Projects include, installing tools, programming in R, cleaning data, performing analyses, as well as peer review assignments.
+
+SKILLS YOU WILL GAIN
+
+Data Science
+Machine Learning
+Github
+R Programming
+Exploratory Data Analysis
+Rstudio
+Data Analysis
+Debugging
+Data Manipulation
+Regular Expression (REGEX)
+Data Cleansing
+Cluster Analysis
+
+
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+4.9 stars
+
+55819 ratings
+
+Andrew Ng.
+
+About this Course
+
+This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow. 
+
+After 3 weeks, you will: 
+- Understand industry best-practices for building deep learning applications. 
+- Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
+- Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
+- Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
+- Be able to implement a neural network in TensorFlow. 
+
+This is the second course of the Deep Learning Specialization.
+
+SKILLS YOU WILL GAIN
+
+Hyperparameter
+Tensorflow
+Hyperparameter Optimization
+Deep Learning
+
+
+Pattern Discovery in Data Mining
+
+4.3 stars
+
+283 ratings
+
+Jiawei Han
+
+About this course
+
+Learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. We will also introduce methods for data-driven phrase mining and some interesting applications of pattern discovery. This course provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns.
+
+SKILLS YOU WILL GAIN
+
+Streams
+Sequential Pattern Mining
+Data Mining Algorithms
+Data Mining
+
+
+Data Science Math Skills
+
+4.5 stars
+
+8329 ratings
+
+Daniel Egger
+
+About this Course
+
+Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time. 
+
+While this course is intended as a general introduction to the math skills needed for data science, it can be considered a prerequisite for learners interested in the course, "Mastering Data Analysis in Excel," which is part of the Excel to MySQL Data Science Specialization.  Learners who master Data Science Math Skills will be fully prepared for success with the more advanced math concepts introduced in "Mastering Data Analysis in Excel." 
+
+SKILLS YOU WILL GAIN
+Bayes' Theorem
+Bayesian Probability
+Probability
+Probability Theory
+
+
+Data Science: Statistics and Machine Learning Specialization
+
+4.5 stars
+13560 ratings
+
+Brian Caffo
+
+About this Course
+
+Build models, make inferences, and deliver interactive data products.This specialization continues and develops on the material from the Data Science: Foundations using R specialization. It covers statistical inference, regression models, machine learning, and the development of data products. In the Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, learners will have a portfolio demonstrating their mastery of the material. The five courses in this specialization are the very same courses that make up the second half of the Data Science Specialization. This specialization is presented for learners who have already mastered the fundamentals and want to skip right to the more advanced courses.
+
+SKILLS YOU WILL GAIN
+Machine Learning
+Github
+R Programming
+Regression Analysis
+Data Visualization (DataViz)
+Statistics
+Statistical Inference
+Statistical Hypothesis Testing
+Model Selection
+Generalized Linear Model
+Linear Regression
+Random Forest
+
+
+Visual Analytics with Tableau
+
+4.6 stars
+1409 ratings
+
+Suk S. Brar, M.B.A.
+
+About this Course
+
+In this course, we’ll drill deeper into the tools Tableau offers in the areas of charting, dates, table calculations and mapping. We’ll explore the best choices for charts, based on the type of data you are using. We’ll look at specific types of charts including scatter plots, Gantt charts, histograms, bullet charts and several others, and we’ll address charting guidelines. We’ll define discrete and continuous dates, and examine when to use each one to explain your data.  You’ll learn how to create custom and quick table calculations and how to create parameters. We’ll also introduce mapping and explore how Tableau can use different types of geographic data, how to connect to multiple data sources and how to create custom maps.
+
+SKILLS YOU WILL GAIN
+Visual Analytics
+Map
+Tableau Software
+Data Visualization (DataViz)
+
+
+Introduction to Data Science in Python
+
+4.5 stars
+
+22734 ratings
+
+Cristopher Brooks
+
+About this Course
+
+This course will introduce the learner to the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. The course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively. By the end of this course, students will be able to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses. 
+
+This course should be taken before any of the other Applied Data Science with Python courses: Applied Plotting, Charting & Data Representation in Python, Applied Machine Learning in Python, Applied Text Mining in Python, Applied Social Network Analysis in Python.
+
+SKILLS YOU WILL GAIN
+Python Programming
+Numpy
+Pandas
+Data Cleansing
+
+
+Exploratory Data Analysis
+
+4.7 stars
+5737 ratings
+
+Roger D. Peng, PhD
+
+About this Course
+
+This course covers the essential exploratory techniques for summarizing data. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data. We will cover in detail the plotting systems in R as well as some of the basic principles of constructing data graphics. We will also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
+
+SKILLS YOU WILL GAIN
+Cluster Analysis
+Ggplot2
+R Programming
+Exploratory Data Analysis
+
+
+A Crash Course in Causality: Inferring Causal Effects from Observational Data
+
+4.7 stars
+292 ratings
+
+Jason A. Roy, Ph.D.
+
+About this Course
+
+We have all heard the phrase “correlation does not equal causation.”  What, then, does equal causation?  This course aims to answer that question and more!  
+
+Over a period of 5 weeks, you will learn how causal effects are defined, what assumptions about your data and models are necessary, and how to implement and interpret some popular statistical methods.  Learners will have the opportunity to apply these methods to example data in R (free statistical software environment).
+
+SKILLS YOU WILL GAIN
+Instrumental Variable
+Propensity Score Matching
+Causal Inference
+Causality
+
+
+Data Visualization
+
+4.5 stars
+1108 ratings
+
+John C. Hart
+
+About this Course
+
+Learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. We will also introduce methods for pattern-based classification and some interesting applications of pattern discovery. This course provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns.
+
+SKILLS YOU WILL GAIN
+Data Visualization Software
+Tableau Software
+Data Virtualization
+Data Visualization (DataViz)
+
+
+Data Science in Stratified Healthcare and Precision Medicine
+
+4.6 stars
+257 ratings
+
+Dr Areti Manataki
+
+About this Course
+
+An increasing volume of data is becoming available in biomedicine and healthcare, from genomic data, to electronic patient records and data collected by wearable devices. Recent advances in data science are transforming the life sciences, leading to precision medicine and stratified healthcare. 
+
+In this course, you will learn about some of the different types of data and computational methods involved in stratified healthcare and precision medicine.  You will have a hands-on experience of working with such data.  And you will learn from leaders in the field about successful case studies. 
+
+SKILLS YOU WILL GAIN
+Data Science
+Python Programming
+Machine Learning
+Image Analysis
+
+
+Process Mining: Data science in Action
+
+4.8 stars
+809 ratings
+
+Wil van der Aalst
+
+About this Course
+
+The course explains the key analysis techniques in process mining. Participants will learn various process discovery algorithms. These can be used to automatically learn process models from raw event data. Various other process analysis techniques that use event data will be presented. Moreover, the course will provide easy-to-use software, real-life data sets, and practical skills to directly apply the theory in a variety of application domains.
+
+This course starts with an overview of approaches and technologies that use event data to support decision making and business process (re)design. Then the course focuses on process mining as a bridge between data mining and business process modeling. The course is at an introductory level with various practical assignments.
+
+SKILLS YOU WILL GAIN
+Petri Net
+Process Modeling
+Process Mining
+Data Mining
+
+
+Foundations of Data Science: K-Means Clustering in Python
+
+4.7 stars
+260 ratings
+
+Dr Matthew Yee-King
+
+About this Course
+
+Organisations all around the world are using data to predict behaviours and extract valuable real-world insights to inform decisions. Managing and analysing big data has become an essential part of modern finance, retail, marketing, social science, development and research, medicine and government.
+
+This MOOC, designed by an academic team from Goldsmiths, University of London, will quickly introduce you to the core concepts of Data Science to prepare you for intermediate and advanced Data Science courses. It focuses on the basic mathematics, statistics and programming skills that are necessary for typical data analysis tasks. 
+
+SKILLS YOU WILL GAIN
+K-Means Clustering
+Machine Learning
+Programming in Python
+
+
+Fundamentals of Scalable Data Science
+
+4.3 stars
+1700 ratings
+
+Romeo Kienzler
+
+About this course
+
+In this course we teach you the fundamentals of Apache Spark using python and pyspark. We'll introduce Apache Spark in the first two weeks and learn how to apply it to compute basic exploratory and data pre-processing tasks in the last two weeks. Through this exercise you'll also be introduced to the most fundamental statistical measures and data visualization technologies.
+
+This gives you enough knowledge to take over the role of a data engineer in any modern environment. But it gives you also the basis for advancing your career towards data science. 
+
+SKILLS YOU WILL GAIN
+Statistics
+Data Science
+Internet Of Things (IOT)
+Apache Spark
+
+
+Spatial Data Science and Applications
+
+4.4 stars
+
+343 ratings
+
+Joon Heo
+
+About this course
+
+Spatial (map) is considered as a core infrastructure of modern IT world, which is substantiated by business transactions of major IT companies such as Apple, Google, Microsoft, Amazon, Intel, and Uber, and even motor companies such as Audi, BMW, and Mercedes. Consequently, they are bound to hire more and more spatial data scientists.  Based on such business trend, this course is designed to present a firm understanding of spatial data science to the learners, who would have a basic knowledge of data science and data analysis, and eventually to make their expertise differentiated from other nominal data scientists and data analysts.  Additionally, this course could make learners realize the value of spatial big data and the power of open source software's to deal with spatial data science problems.
+
+This course will start with defining spatial data science and answering why spatial is special from three different perspectives - business, technology, and data in the first week.  In the second week, four disciplines related to spatial data science - GIS, DBMS, Data Analytics, and Big Data Systems, and the related open source software's - QGIS, PostgreSQL, PostGIS, R, and Hadoop tools are introduced together.  During the third, fourth, and fifth weeks, you will learn the four disciplines one by one from the principle to applications.  In the final week, five real world problems and the corresponding solutions are presented with step-by-step procedures in environment of open source software's.
+
+SKILLS YOU WILL GAIN
+Spatial Analysis
+Qgis
+Big Data
+Geographic Information System (GIS)
